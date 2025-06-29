@@ -1,0 +1,17 @@
+{
+  "short_name": "Ai名片冊",
+  "name": "Ai名片蒐集冊",
+  "icons": [
+    {
+      "src": "/aibusinesscard2/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/aibusinesscard2/",
+  "display": "standalone",
+  "theme_color": "#DDD0C8",
+  "background_color": "#DDD0C8",
+  "description": "一個可以掃描名片的app，自動偵測並分類您的聯絡人。"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Ai名片蒐集冊",
+  "description": "An application to scan business cards using your camera, automatically extracting contact information like name, phone, email, company, and title using AI. All your contacts, searchable in one place, with a delightful UI and theme switching.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

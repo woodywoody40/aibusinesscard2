@@ -1,0 +1,9 @@
+body {
+  overscroll-behavior-y: contain;
+  background-color: #DDD0C8; /* morandi-background-light */
+  color: #53565C; /* morandi-foreground-light */
+}
+.dark body {
+  background-color: #53565C; /* morandi-background-dark */
+  color: #DDD0C8; /* morandi-foreground-dark */
+}
